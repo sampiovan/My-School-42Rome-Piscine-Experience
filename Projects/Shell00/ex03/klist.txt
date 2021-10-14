@@ -1,0 +1,6 @@
+Credentials cache: API:226700C6-4EEF-4537-96CE-5157E3C467A2
+        Principal: spiovan@42ROMA.IT
+
+  Issued                Expires               Principal
+Sep 28 13:41:59 2021  Sep 28 23:41:59 2021  krbtgt/42ROMA.IT@42ROMA.IT
+Sep 28 13:42:01 2021  Sep 28 23:41:59 2021  HTTP/storage.42roma.it@42ROMA.IT
